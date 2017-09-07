@@ -1,0 +1,18 @@
+﻿
+Erratum Corrections
+
+
+
+1. Page 25, reference is made to Chapter 1 Practice Images Folder. There are no practice images for Chapter 1. There are Practice Images provided for Chapter 2 and up.
+
+2. Page 48: In item 5, the sentence that begins with "Change the blending mode..." should be a separate item in the 	numbered list.
+
+3. Page 56, Step number 8 should read Brass Color layer, not Wood Color Layer.
+
+
+4. Page 53, item 13 in the numbered list. Description of Error - "... use the Paintbrush (P) and a round nib." No mention is made of how to select a round nib.  The concept of a nib for the paintbrush tool does not seem to exist, so this may be an error. This is actually addressed in the  PDF Supplemental Chapter (supplied with the Practice Images Folders available from the Download Source code tab).
+
+
+
+
+
